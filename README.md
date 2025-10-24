@@ -1,5 +1,5 @@
 # Progetti
-Lista di progetti
+Alcuni progetti a cui ho preso parte
 
 ## SimpleATCSimulator
 
@@ -14,3 +14,9 @@ Sviluppato utilizzando **HTML**, **CSS**, **JavaScript** (con la libreria **jQue
 
 [TakeEatEasy](https://bitbucket.org/RunCor3/takeeateasy-tecnologie-web/src/master/)
 
+## MayIAsk
+
+Applicazione Android per la creazione e condivisione di sondaggi su qualsiasi argomento.  
+L'app utilizza il linguaggio **Java**, mentre il back-end per la gestione dei dati fa affidamento su **PHP** con RDBMS **MySQL**.
+
+[MayIAsk](https://bitbucket.org/willyc7/appmobile) e relativo [back-end](https://bitbucket.org/willyc7/mobilebackend)
