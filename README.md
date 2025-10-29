@@ -20,6 +20,8 @@ Sviluppato utilizzando **HTML**, **CSS**, **JavaScript** (con la libreria **jQue
 
 ## MayIAsk
 
+<img src="/resources/MayIAsk_01.jpg" alt="MayIAsk pic 1" style="width:200px;"/>  <img src="/resources/MayIAsk_02.jpg" alt="MayIAsk pic 2" style="width:200px;"/>
+
 Applicazione Android per la creazione e condivisione di sondaggi su qualsiasi argomento.  
 L'app utilizza il linguaggio **Java**, mentre il back-end per la gestione dei dati fa affidamento su **PHP** con RDBMS **MySQL**.
 
